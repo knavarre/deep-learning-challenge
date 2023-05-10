@@ -46,9 +46,11 @@ Initial Model
     * hidden layers: 'relu' 
     * output layer: 'sigmoid'
   * Epochs: 100
+
   ![alt text](https://github.com/knavarre/deep-learning-challenge/blob/main/images/initial_model.PNG?raw=true)
   * Model Loss: 0.5568
   * Model Accuracy: 0.7286
+
   ![alt text](https://github.com/knavarre/deep-learning-challenge/blob/main/images/initial_model_accuracy.PNG?raw=true)
 
 Optimized Model
@@ -64,9 +66,11 @@ Optimized Model
     * hidden layers: 'relu' 
     * output layer: 'sigmoid'
   * Epochs: 50
+
   ![alt text](https://github.com/knavarre/deep-learning-challenge/blob/main/images/optimized_model.PNG?raw=true)
   * Model Loss: 0.5508
   * Model Accuracy: 0.7287
+
   ![alt text](https://github.com/knavarre/deep-learning-challenge/blob/main/images/optimized_model_accuracy.PNG?raw=true)
 
 When attempting to optimize the model, the model continued to hover at an accuracy of ~72%.  The following steps were taken to attempt to increase the models accuracy percentage: 
